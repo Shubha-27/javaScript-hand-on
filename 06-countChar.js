@@ -1,3 +1,5 @@
+console.log(`====================Count char 'a' or 'A'=====================`);
+
 function countCharA(str) {
     let count = 0;
 
